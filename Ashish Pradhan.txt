@@ -1,0 +1,61 @@
+Ashish Pradhan
+Electronics Engineering Student
+An Enthusiastic and self-motivated professional with excellent research and communication skills, enthusiasm to
+learn new things, gain new skills, do work that matters to society, towards self intellect and always tries to be
+appreciated as well-performer.
+ashishad14@gmail.com
+7304665906
+Mumbai, Maharashtra
+linkedin.com/in/ashish- pradhan1414
+github.com/ashish-ad
+ashishad14.medium.com TECHNICAL
+SKILLS
+PyTorch Tensorflow
+Numpy HTML
+CSS Jupyter
+Visual Studio Code
+TECHNICAL
+LANGUAGES
+Pyhton
+Conversant
+C/C++ Conversant
+Matlab
+Conversant
+Java Script
+Basics
+INTERESTS
+Marathons [Running]
+Swimming Cooking
+Trekking Art & Culture
+EDUCATION
+Bachelor of Engineering
+Vidyalankar Institute of Technology
+08/2017 - Present, Mumbai, Maharashtra
+Electronics Higher Senior Secondary
+Kendriya Vidyalaya No.2
+04/2015 - 04/2017, Mumbai, Maharashtra
+PROJECTS
+Design and Development of AI-based camera for Wildlife Study (06/2020 - Present)
+Learned and Deployed how to work on Nvidia Jetson Nano A. I module. GAN [Generative Adversarial Network] MINST Handwritten digit Generation (05/2020 - 06/2020)
+Generated handwritten digits using PyTorch [GPU] framework in Python notebook. Digits recognition using Tensor-flow (05/2020 - 05/2020)
+Made Drawing Window with a sheet where digits can be drawn and in backend the digit is recognized using a model
+developed on Tensor-Flow using Jupyter-Lab
+TRAINING AND WORK EXPERIENCE
+Intern
+Verzeo [Web Development (Full Stack)] 05/2021 - Present, Bengaluru, Karnataka
+Internship Program in India | Certification Program in India (verzeo.com)
+Intern/Trainee
+Oyester Training
+05/2020 - 06/2020, Jalgaon, Maharashtra
+Training involves software development, web development and machine learning. Worked on 40 Mini Projects and Complete two major project one guided and another self-guided. Contact: https://oyesters.in/
+CERTIFICATES
+Scientific Computing With Python (05/2021 - Present)
+Developer Certification, representing approximately 300 hours of coursework.
+Introduction to Tensor-Flow for Artificial Intelligence, Machine Learning, and Deep Learning
+(02/2021 - 04/2021)
+Learned Basic Neural Network Design using Tensor-Flow framework. Certificate of Internship (05/2020 - 06/2020)
+Completed One Month hands on Training cum Internship From Basic of Python to Deep Learning.
+Image Processing Onramp (02/2021 - 03/2021)
+Introduction to Image processing, Working with Images in MATLAB. Workshop On Artificial Intelligence and Machine Learning (04/2020 - 04/2020)
+Learned about Machine Learning and Artificial Intelligence in python. Workshop On Artificial Intelligence and Machine Learning (02/2020 - 02/2020)
+Attended Two days work shop and a competition At IIT Roorkee Remotely Conducted In Vidyalankar Institute of Technology
