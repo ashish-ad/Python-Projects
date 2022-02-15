@@ -11,13 +11,21 @@ class Item:
         assert type(name) == str, f"Passed value as {name} should be string not {type(name)}"
 
         # Assign to self object
-        self.name = name
+        self.__name = name
+        # self.name = name
         self.price =  price
         self.quantity = quantity
 
         # Actions to execute
         Item.all.append(self)
-    
+        @property
+        # Property Decorator = Read-Only Attribute
+        def name(self):
+            return self.__name
+
+        # @name.setter
+        # def name(self):
+        #     return
     
     def calculate_total_price(self):
         return self.price * self.quantity
