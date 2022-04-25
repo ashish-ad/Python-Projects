@@ -7,4 +7,5 @@ item2 = Item("Laptop",1000,3)
 
 
 # item1.name = "Mobile Phone"
-print(item1.__name)
+print(item1)
+print(item2)
